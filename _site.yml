@@ -1,9 +1,9 @@
 name: "mywebpage"  
-author: "YOUR NAME"  
+author: "Bharti Gupta"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: cosmo
 navbar:  
-  title: "My First Webpage"
+  title: "Bharti Gupta"

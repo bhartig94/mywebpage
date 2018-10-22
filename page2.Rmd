@@ -1,38 +1,14 @@
 ---
-title: "more info"
+title: "Projects"
 ---
 
-## Headings and Paragraphs
+Here are some of the studies I explored as part of my undergradute studies:
 
-Headings are prefaces with hashes `#`. The largest, title heading gets one hash 
-and each subheading level adds another hash. 
+1. [A Preliminary Study - Self-Disclosure and Relationship Maintenance](https://www.dropbox.com/s/w6stdhwhl83642l/A%20Preliminary%20Study%20-%20Self-Disclosure%20and%20Relationship%20Maintenance.pdf?dl=0), Fall 2015
 
-Paragraphs dont require any special marks, they are just automatically created 
-when you skip a line between blocks of text.
+1. [Cultivating  Empathy Through  Acting - Term Paper](https://www.dropbox.com/s/418r8sxjgvazudw/Cultivating%20%20Empathy%20Through%20%20Acting%20-%20Term%20Paper.pdf?dl=0), Fall 2017
 
-###Lists
+1. [Prejudice of Psychology Poster - Impression Formation](https://www.dropbox.com/s/9cejbgm0y6uo9zh/Prejudice%20of%20Psychology%20Poster.pdf?dl=0), Fall 2017
 
-Face Research Lab:
-
-* Permanent Staff
-    * Lisa
-    * Ben
-* Postdocs
-    * Iris
-    * Ant
-    * Kieran
-* PhD Students
-    * Danielle
-    * Chengyang 
-    * Vanessa
-    * Jaimie
-
-Things I need to do:
-
-1. Finish this lesson
-1. Write new R script for hormones project
-1. Write reference letter
-1. Check Moodle
-
-I can link to [Google](http://google.com).
+More written material can be found [here](https://www.dropbox.com/sh/ee9sr8vn5ob8efv/AABAdbCFLKGoV6CChxpyR0Mia?dl=0)
 
