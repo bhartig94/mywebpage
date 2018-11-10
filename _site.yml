@@ -7,3 +7,8 @@ output:
     theme: cosmo
 navbar:  
   title: "Bharti Gupta"
+  left:
+  - text: "Projects"
+    href: page2.html
+  - text: "CV"
+    href: page3.html
